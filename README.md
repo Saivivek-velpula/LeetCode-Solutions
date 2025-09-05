@@ -22,7 +22,7 @@ All solutions are written in **Python** (more languages may be added later).
 ### ✅ Easy
 | #  | Problem | Solution |
 |----|----------|----------|
-| 1  | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./1-two-sum.py) |
+| 1  | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](1-TwoSum.py) |
 
 ---
 
