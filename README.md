@@ -25,6 +25,7 @@ All solutions are written in **Python** (more languages may be added later).
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](1-TwoSum.py) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](387-FirstUniqueCharacterInAString.py) |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Python](1304-Find_N_UniqueIntegersSumUpToZero.py) |
+| 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Python](1317-ConvertIntegerToTheSumofTwoNo-ZeroIntegers.py) |
 
 ---
 
