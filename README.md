@@ -39,7 +39,7 @@ All solutions are written in **Python** (more languages may be added later).
 ### 🔴 Hard
 | #  | Problem | Solution |
 |----|----------|----------|
-| –  | –        | –        |
+| 4  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](4-MedianofTwoSortedArrays.py) |
 
 ---
 
