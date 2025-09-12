@@ -32,7 +32,8 @@ All solutions are written in **Python** (more languages may be added later).
 ### 🟡 Medium
 | #  | Problem | Solution |
 |----|----------|----------|
-| 137  |  [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Python](137-SingleNumber-II.py) |
+| 137 |  [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Python](137-SingleNumber-II.py) |
+| 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](260-SingleNumber-III.py) |
 
 ---
 
