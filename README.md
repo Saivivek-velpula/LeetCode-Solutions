@@ -27,6 +27,8 @@ All solutions are written in **Python** (more languages may be added later).
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Python](389-FindtheDifference.py) |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Python](1304-Find_N_UniqueIntegersSumUpToZero.py) |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Python](1317-ConvertIntegerToTheSumofTwoNo-ZeroIntegers.py) |
+| 3541 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | [Python](3541-FindMostFrequentVowelandConsonant.py) |
+
 ---
 
 ### 🟡 Medium
