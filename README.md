@@ -23,12 +23,17 @@ All solutions are written in **Python** (more languages may be added later).
 | #   | Problem | Solution |
 |----- |----------|----------|
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](1-TwoSum.py) |
+| 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [Python](258-AddDigits.py) | 
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](387-FirstUniqueCharacterInAString.py) |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Python](389-FindtheDifference.py) |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Python](1304-Find_N_UniqueIntegersSumUpToZero.py) |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Python](1317-ConvertIntegerToTheSumofTwoNo-ZeroIntegers.py) |
+| 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [Python](2520-CounttheDigitsThatDivideaNumber.py) |
+| 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [Python](2535-DifferenceBetweenElementSumandDigitSumofanArray.py) |
 | 3158 | [Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/) | [Python](3158-FindtheXORofNumbersWhichAppearTwice.py) |
 | 3541 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | [Python](3541-FindMostFrequentVowelandConsonant.py) |
+| 3683 | [Earliest Time to Finish One Task](https://leetcode.com/problems/earliest-time-to-finish-one-task/description/) | [Python](3683-EarliestTimetoFinishOneTask.py) |
+| 3684 | [Maximize Sum of At Most K Distinct Elements](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/description/) | [Python](3684-MaximizeSumofAtMostKDistinctElements.py) |
 
 ---
 
