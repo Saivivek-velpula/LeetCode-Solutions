@@ -24,12 +24,15 @@ All solutions are written in **Python** (more languages may be added later).
 |----- |----------|----------|
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](1-TwoSum.py) |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [Python](258-AddDigits.py) | 
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](349-IntersectionofTwoArrays.py) |
+| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Python](350-IntersectionofTwoArraysII.py) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](387-FirstUniqueCharacterInAString.py) |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Python](389-FindtheDifference.py) |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Python](1304-Find_N_UniqueIntegersSumUpToZero.py) |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Python](1317-ConvertIntegerToTheSumofTwoNo-ZeroIntegers.py) |
 | 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | [Python](1935-MaximumNumberofWordsYouCanType.py) |
 | 1945 | [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | [Python](1945-SumofDigitsofStringAfterConvert.py) |
+| 2248 | [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) | [Python](2248-IntersectionofMultipleArrays.py) |
 | 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [Python](2520-CounttheDigitsThatDivideaNumber.py) |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [Python](2535-DifferenceBetweenElementSumandDigitSumofanArray.py) |
 | 3019 | [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/) | [Python](3019-NumberofChangingKeys.py) |
