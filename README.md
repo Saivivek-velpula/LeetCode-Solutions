@@ -46,9 +46,11 @@ All solutions are written in **Python** (more languages may be added later).
 ### 🟡 Medium
 | #  | Problem | Solution |
 |----|----------|----------|
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](7-ReverseInteger.py) |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python](50-pow.py) |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Python](137-SingleNumber-II.py) |
 | 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](260-SingleNumber-III.py) |
+| 2442 | [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/) | [Python](2442-CountNumber_ofDistinctIntegersAfterReverseOperations.py) |
 
 ---
 
