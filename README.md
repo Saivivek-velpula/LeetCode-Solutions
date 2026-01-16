@@ -28,6 +28,7 @@ All solutions are written in **Python** (more languages may be added later).
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Python](350-IntersectionofTwoArraysII.py) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](387-FirstUniqueCharacterInAString.py) |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Python](389-FindtheDifference.py) |
+| 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [Python](1051-HeightChecker.py) |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Python](1304-Find_N_UniqueIntegersSumUpToZero.py) |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Python](1317-ConvertIntegerToTheSumofTwoNo-ZeroIntegers.py) |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [Python](1920-BuildArrayFromPermutation.py) |
