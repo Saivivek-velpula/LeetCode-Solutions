@@ -33,6 +33,7 @@ All solutions are written in **Python** (more languages may be added later).
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [Python](1200-MinimumAbsoluteDifference.py) |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Python](1304-Find_N_UniqueIntegersSumUpToZero.py) |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Python](1317-ConvertIntegerToTheSumofTwoNo-ZeroIntegers.py) |
+| 1460 | [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/) | [Python](1460-MakeTwoArraysEqualbyReversingSubarrays.py)|
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [Python](1920-BuildArrayFromPermutation.py) |
 | 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | [Python](1935-MaximumNumberofWordsYouCanType.py) |
 | 1945 | [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | [Python](1945-SumofDigitsofStringAfterConvert.py) |
