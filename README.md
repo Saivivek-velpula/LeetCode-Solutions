@@ -33,11 +33,14 @@ All solutions are written in **Python** (more languages may be added later).
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [Python](1200-MinimumAbsoluteDifference.py) |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Python](1304-Find_N_UniqueIntegersSumUpToZero.py) |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Python](1317-ConvertIntegerToTheSumofTwoNo-ZeroIntegers.py) |
-| 1460 | [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/) | [Python](1460-MakeTwoArraysEqualbyReversingSubarrays.py)|
+| 1460 | [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/) | [Python](1460-MakeTwoArraysEqualbyReversingSubarrays.py) |
+| 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Python](1752-CheckIfArrayIsSortedAndRotated.py) |
+| 1893 | [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/) | [Python](1893-CheckIfAllTheIntegersInARangeAreCovered.py) |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [Python](1920-BuildArrayFromPermutation.py) |
 | 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | [Python](1935-MaximumNumberofWordsYouCanType.py) |
 | 1945 | [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | [Python](1945-SumofDigitsofStringAfterConvert.py) |
 | 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | [Python](2119-ANumberAfteraDoubleReversal.py) |
+| 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | [Python](2124-CheckIfAllA'sAppearsBeforeAllB's.py) |
 | 2248 | [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) | [Python](2248-IntersectionofMultipleArrays.py) |
 | 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [Python](2520-CounttheDigitsThatDivideaNumber.py) |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [Python](2535-DifferenceBetweenElementSumandDigitSumofanArray.py) |
