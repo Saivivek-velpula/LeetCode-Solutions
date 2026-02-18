@@ -28,6 +28,7 @@ All solutions are written in **Python** (more languages may be added later).
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Python](350-IntersectionofTwoArraysII.py) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](387-FirstUniqueCharacterInAString.py) |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Python](389-FindtheDifference.py) |
+| 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [Python](693-BinaryNumberWithAlternatingBits.py) |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [Python](1051-HeightChecker.py) |
 | 1184 | [Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/) | [Python](1184-DistanceBetweenBusStops.py) |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [Python](1200-MinimumAbsoluteDifference.py) |
