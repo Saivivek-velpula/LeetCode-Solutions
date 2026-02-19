@@ -38,6 +38,7 @@ All solutions are written in **Python** (more languages may be added later).
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Python](1752-CheckIfArrayIsSortedAndRotated.py) |
 | 1893 | [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/) | [Python](1893-CheckIfAllTheIntegersInARangeAreCovered.py) |
 | 1909 | [Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/) | [Python](1909-RemoveOneElementToMakeTheArrayStrictlyIncreasing.py) |
+| 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | [Python](1913-MaximumProductDifferenceBetweenTwoPairs.py) |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [Python](1920-BuildArrayFromPermutation.py) |
 | 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | [Python](1935-MaximumNumberofWordsYouCanType.py) |
 | 1945 | [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | [Python](1945-SumofDigitsofStringAfterConvert.py) |
