@@ -29,7 +29,8 @@ All solutions are written in **Python** (more languages may be added later).
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](387-FirstUniqueCharacterInAString.py) |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Python](389-FindtheDifference.py) |
 | 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [Python](693-BinaryNumberWithAlternatingBits.py) |
-|  762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Python](762-PrimeNumberofSetBitsinBinaryRepresentation.py) |
+| 762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Python](762-PrimeNumberofSetBitsinBinaryRepresentation.py) |
+| 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/) | [Python](868-BinaryGap.py) |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [Python](1051-HeightChecker.py) |
 | 1184 | [Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/) | [Python](1184-DistanceBetweenBusStops.py) |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [Python](1200-MinimumAbsoluteDifference.py) |
@@ -67,6 +68,8 @@ All solutions are written in **Python** (more languages may be added later).
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Python](137-SingleNumber-II.py) |
 | 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](260-SingleNumber-III.py) |
 | 2442 | [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/) | [Python](2442-CountNumber_ofDistinctIntegersAfterReverseOperations.py) |
+| 3847 | [Find the Score Difference in a Game](https://leetcode.com/problems/find-the-score-difference-in-a-game/) | [Python](3847-FindtheScoreDifferenceinaGame.py) |
+| 3848 | [Check Digitorial Permutation](https://leetcode.com/problems/check-digitorial-permutation/) | [Python](3848-CheckDigitorialPermutation.py) |
 
 ---
 
