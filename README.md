@@ -45,6 +45,7 @@ All solutions are written in **Python** (more languages may be added later).
 | 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | [Python](1935-MaximumNumberofWordsYouCanType.py) |
 | 1945 | [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | [Python](1945-SumofDigitsofStringAfterConvert.py) |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | [Python](1967-NumberofStringsThatAppearasSubstringsinWord.py) |
+| 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [Python](1979-FindGreatestCommonDivisorofArray.py) |
 | 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | [Python](2119-ANumberAfteraDoubleReversal.py) |
 | 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | [Python](2124-CheckIfAllA'sAppearsBeforeAllB's.py) |
 | 2248 | [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) | [Python](2248-IntersectionofMultipleArrays.py) |
