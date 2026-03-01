@@ -59,6 +59,7 @@ All solutions are written in **Python** (more languages may be added later).
 | 3683 | [Earliest Time to Finish One Task](https://leetcode.com/problems/earliest-time-to-finish-one-task/description/) | [Python](3683-EarliestTimetoFinishOneTask.py) |
 | 3684 | [Maximize Sum of At Most K Distinct Elements](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/description/) | [Python](3684-MaximizeSumofAtMostKDistinctElements.py) |
 | 3688  | [Bitwise OR of Even Numbers in an Array](https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array/) | [Python](3688-BitwiseORofEvenNumbersinanArray.py) |
+| 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels/) | [Python](3856-TrimrailingVowels.py) |
 
 ---
 
@@ -69,9 +70,12 @@ All solutions are written in **Python** (more languages may be added later).
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python](50-pow.py) |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Python](137-SingleNumber-II.py) |
 | 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](260-SingleNumber-III.py) |
+| 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | [Python](1680-ConcatenationofConsecutiveBinaryNumbers.py) |
 | 2442 | [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/) | [Python](2442-CountNumber_ofDistinctIntegersAfterReverseOperations.py) |
 | 3847 | [Find the Score Difference in a Game](https://leetcode.com/problems/find-the-score-difference-in-a-game/) | [Python](3847-FindtheScoreDifferenceinaGame.py) |
 | 3848 | [Check Digitorial Permutation](https://leetcode.com/problems/check-digitorial-permutation/) | [Python](3848-CheckDigitorialPermutation.py) |
+| 3857 | [Minimum Cost to Split into Ones](https://leetcode.com/problems/minimum-cost-to-split-into-ones/) | [Python](3857-MinimumCosttoSplitintoOnes.py) |
+
 
 ---
 
