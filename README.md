@@ -54,7 +54,7 @@ All solutions are written in **Python** (more languages may be added later).
 | 3019 | [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/) | [Python](3019-NumberofChangingKeys.py) |
 | 3158 | [Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/) | [Python](3158-FindtheXORofNumbersWhichAppearTwice.py) |
 | 3314 | [Construct The Minimum Bitwise Array-I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | [Python](3314-ConstructTheMinimumBitwiseArray-I.py) |
-| 3345 | [3345. Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | [Python](3345-SmallestDivisibleDigitProductI.py) |
+| 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | [Python](3345-SmallestDivisibleDigitProductI.py) |
 | 3541 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | [Python](3541-FindMostFrequentVowelandConsonant.py) |
 | 3637 | [Trionic Array I](https://leetcode.com/problems/trionic-array-i/) | [Python](3637-Trionic_Array-I.py) |
 | 3683 | [Earliest Time to Finish One Task](https://leetcode.com/problems/earliest-time-to-finish-one-task/description/) | [Python](3683-EarliestTimetoFinishOneTask.py) |
