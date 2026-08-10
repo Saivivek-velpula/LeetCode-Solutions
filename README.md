@@ -51,6 +51,7 @@ All solutions are written in **Python** (more languages may be added later).
 | 2248 | [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) | [Python](2248-IntersectionofMultipleArrays.py) |
 | 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [Python](2520-CounttheDigitsThatDivideaNumber.py) |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [Python](2535-DifferenceBetweenElementSumandDigitSumofanArray.py) |
+| 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [Python](2610-ConvertAnArrayIntoA2DArrayWithConditions.py) | 
 | 3019 | [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/) | [Python](3019-NumberofChangingKeys.py) |
 | 3158 | [Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/) | [Python](3158-FindtheXORofNumbersWhichAppearTwice.py) |
 | 3314 | [Construct The Minimum Bitwise Array-I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | [Python](3314-ConstructTheMinimumBitwiseArray-I.py) |
