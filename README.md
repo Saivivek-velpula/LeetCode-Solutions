@@ -51,7 +51,6 @@ All solutions are written in **Python** (more languages may be added later).
 | 2248 | [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) | [Python](2248-IntersectionofMultipleArrays.py) |
 | 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [Python](2520-CounttheDigitsThatDivideaNumber.py) |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [Python](2535-DifferenceBetweenElementSumandDigitSumofanArray.py) |
-| 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [Python](2610-ConvertAnArrayIntoA2DArrayWithConditions.py) | 
 | 3019 | [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/) | [Python](3019-NumberofChangingKeys.py) |
 | 3158 | [Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/) | [Python](3158-FindtheXORofNumbersWhichAppearTwice.py) |
 | 3314 | [Construct The Minimum Bitwise Array-I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | [Python](3314-ConstructTheMinimumBitwiseArray-I.py) |
@@ -74,6 +73,7 @@ All solutions are written in **Python** (more languages may be added later).
 | 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](260-SingleNumber-III.py) |
 | 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | [Python](1680-ConcatenationofConsecutiveBinaryNumbers.py) |
 | 2442 | [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/) | [Python](2442-CountNumber_ofDistinctIntegersAfterReverseOperations.py) |
+| 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [Python](2610-ConvertAnArrayIntoA2DArrayWithConditions.py) | 
 | 3847 | [Find the Score Difference in a Game](https://leetcode.com/problems/find-the-score-difference-in-a-game/) | [Python](3847-FindtheScoreDifferenceinaGame.py) |
 | 3848 | [Check Digitorial Permutation](https://leetcode.com/problems/check-digitorial-permutation/) | [Python](3848-CheckDigitorialPermutation.py) |
 | 3857 | [Minimum Cost to Split into Ones](https://leetcode.com/problems/minimum-cost-to-split-into-ones/) | [Python](3857-MinimumCosttoSplitintoOnes.py) |
