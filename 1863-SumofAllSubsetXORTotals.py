@@ -46,7 +46,7 @@ Therefore:
 0 + 1 + 3 + 2 = 6
 """
 class Solution:
-    def subsetXORSum(self, nums: List[int]) -> int:
+    def subsetXORSum(self, nums):
         res=[]
         def solve(i,temp):
             if i>=len(nums):
