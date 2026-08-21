@@ -48,8 +48,9 @@ All solutions are written in **Python** (more languages may be added later).
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | [Python](1967-NumberofStringsThatAppearasSubstringsinWord.py) |
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [Python](1979-FindGreatestCommonDivisorofArray.py) |
 | 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | [Python](2119-ANumberAfteraDoubleReversal.py) |
-| 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | [Python](2124-CheckIfAllA'sAppearsBeforeAllB's.py) |
+| 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | [Python](2124-CheckIfAllA'sAppearsBeforeAllB's.py) | 
 | 2248 | [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) | [Python](2248-IntersectionofMultipleArrays.py) |
+| 2485 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | [Python](2485-FindthePivotInteger.py) |
 | 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [Python](2520-CounttheDigitsThatDivideaNumber.py) |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [Python](2535-DifferenceBetweenElementSumandDigitSumofanArray.py) |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | [Python](2996-SmallestMissingIntegerGreaterThanSequentialPrefixSum.py) |
