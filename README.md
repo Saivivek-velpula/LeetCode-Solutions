@@ -65,6 +65,7 @@ All solutions are written in **Python** (more languages may be added later).
 | 3683 | [Earliest Time to Finish One Task](https://leetcode.com/problems/earliest-time-to-finish-one-task/description/) | [Python](3683-EarliestTimetoFinishOneTask.py) |
 | 3684 | [Maximize Sum of At Most K Distinct Elements](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/description/) | [Python](3684-MaximizeSumofAtMostKDistinctElements.py) |
 | 3688  | [Bitwise OR of Even Numbers in an Array](https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array/) | [Python](3688-BitwiseORofEvenNumbersinanArray.py) |
+| 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | [Python](3718-SmallestMissingMultipleofK.py) |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels/) | [Python](3856-TrimrailingVowels.py) |
 
 ---
