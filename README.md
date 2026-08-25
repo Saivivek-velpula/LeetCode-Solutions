@@ -54,6 +54,7 @@ All solutions are written in **Python** (more languages may be added later).
 | 2485 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | [Python](2485-FindthePivotInteger.py) |
 | 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [Python](2520-CounttheDigitsThatDivideaNumber.py) |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [Python](2535-DifferenceBetweenElementSumandDigitSumofanArray.py) |
+| 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Python](2965-FindMissingandRepeatedValues.py) | 
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | [Python](2996-SmallestMissingIntegerGreaterThanSequentialPrefixSum.py) |
 | 3019 | [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/) | [Python](3019-NumberofChangingKeys.py) |
 | 3158 | [Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/) | [Python](3158-FindtheXORofNumbersWhichAppearTwice.py) |
