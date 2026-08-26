@@ -83,6 +83,7 @@ All solutions are written in **Python** (more languages may be added later).
 | 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | [Python](1680-ConcatenationofConsecutiveBinaryNumbers.py) |
 | 2442 | [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/) | [Python](2442-CountNumber_ofDistinctIntegersAfterReverseOperations.py) |
 | 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [Python](2610-ConvertAnArrayIntoA2DArrayWithConditions.py) | 
+| 2904 | [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | [Python](2904-ShortestandLexicographicallySmallestBeautifulString.py) |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | [Python](2958-LengthofLongestSubarrayWithatMostKFrequency.py) |
 | 3847 | [Find the Score Difference in a Game](https://leetcode.com/problems/find-the-score-difference-in-a-game/) | [Python](3847-FindtheScoreDifferenceinaGame.py) |
 | 3848 | [Check Digitorial Permutation](https://leetcode.com/problems/check-digitorial-permutation/) | [Python](3848-CheckDigitorialPermutation.py) |
