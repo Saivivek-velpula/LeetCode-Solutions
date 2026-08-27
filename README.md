@@ -74,6 +74,7 @@ All solutions are written in **Python** (more languages may be added later).
 ### 🟡 Medium
 | #  | Problem | Solution |
 |----|----------|----------|
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](2-AddTwoNumbers.py) |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](7-ReverseInteger.py) |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](11-ContainerWithMostWater.py) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Python](15-3Sum.py) |
